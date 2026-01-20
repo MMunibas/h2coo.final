@@ -103,7 +103,7 @@ Z = criegee.get_atomic_numbers()
 
 # Checkpoint files
 #checkpoint = "./CH2OO_CCSD-28307/ch2oo-ccsdt-f12a-avtz-28307-2"
-checkpoint = "best_model.ckpt-245800"
+checkpoint = "best_model.ckpt-777000"
 
 # PhysNet config file
 #config = "./CH2OO_CCSD-28307/config"
